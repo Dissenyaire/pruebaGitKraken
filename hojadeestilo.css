@@ -27,5 +27,5 @@ h1{
 }
 .joinBtn:hover {
     background-color: rgb(61, 37, 8);
-    background-size: auto;
+    background-size: 1px;
 }
