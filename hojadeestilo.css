@@ -19,3 +19,12 @@ a{
 li{
     list-style: none;
 }
+h1{
+    text-align: center;
+    color: rgb(158, 210, 181);
+    
+   
+}
+.joinBtn:hover {
+    background-color: rgb(61, 37, 8);
+}
