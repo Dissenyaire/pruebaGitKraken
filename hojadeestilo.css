@@ -8,12 +8,15 @@ a{
 }
 a:link{
     color: rgb(108, 65, 11);
+    text-decoration: none;
 }
 a:hover{
     color: rgb(158, 210, 181);
+    text-decoration: none;
 }
 a:visited{
     color: rgb(98, 11, 91);
+    text-decoration: none;
 }
 
 li{
