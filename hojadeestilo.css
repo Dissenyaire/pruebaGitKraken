@@ -7,13 +7,13 @@ a{
     text-decoration: none;
 }
 a:link{
-    color: rgb(175, 113, 38);
+    color: rgb(108, 65, 11);
 }
 a:hover{
     color: rgb(158, 210, 181);
 }
 a:visited{
-    color: rgb(26, 98, 63);
+    color: rgb(98, 11, 91);
 }
 
 li{
@@ -52,5 +52,5 @@ h1{
     width: auto;
     background-color: #ae5e5e;
     color: rgb(55, 58, 216);
-    margin-left: 2rem;  
+     
     }
