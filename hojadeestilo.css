@@ -4,6 +4,7 @@ body{
     color: bisque;
 }
 a{
+    color: rgb(108, 65, 11);
     text-decoration: none;
 }
 a:link{
