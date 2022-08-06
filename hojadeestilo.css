@@ -1,9 +1,11 @@
 body{
     background-color: #ae5e5e;
     color: bisque;
-    margin-left: 2rem;
+    /*margin-left: 2rem;*/
 }
-
+a{
+    text-decoration: none;
+}
 a:link{
     color: rgb(202, 140, 64);
 }
@@ -13,9 +15,7 @@ a:hover{
 a:visited{
     color: rgb(222, 211, 20);
 }
-a{
-    text-decoration: none;
-}
+
 li{
     list-style: none;
 }
