@@ -13,7 +13,7 @@ a:link{
 a:hover{
     color: rgb(158, 210, 181);
     text-decoration: none;
-    text-shadow: #6ba8d7;
+    background-color: #6ba8d7;
 }
 a:visited{
     color: rgb(98, 11, 91);
