@@ -47,3 +47,10 @@ h1{
     padding: 20px 0;
     font-size: 14px; 
  }
+
+ #contacto{
+    width: auto;
+    background-color: #ae5e5e;
+    color: rgb(55, 58, 216);
+    margin-left: 2rem;  
+    }
